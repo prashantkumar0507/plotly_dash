@@ -1,4 +1,4 @@
-,country,continent,year,lifeExp,pop,gdpPercap,iso_alpha,iso_num
+cid,country,continent,year,lifeExp,pop,gdpPercap,iso_alpha,iso_num
 23,Albania,Europe,2007,76.423,3600523,5937.029525999998,ALB,8
 83,Austria,Europe,2007,79.829,8199783,36126.4927,AUT,40
 119,Belgium,Europe,2007,79.441,10392226,33692.60508,BEL,56
